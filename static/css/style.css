@@ -1,0 +1,8 @@
+body{
+    background-image: url(./backgroundHD.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+    /* background-color: aquamarine; */
+}
